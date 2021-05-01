@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1041071E-5F15-423F-813D-9D118D0332D0}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AdminPanel.Services</RootNamespace>
+    <AssemblyName>AdminPanel.Services</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="EducationService.cs" />
+    <Compile Include="EmailService.cs" />
+    <Compile Include="ProfileService.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AdminPanel.DataLayer\AdminPanel.DataLayer.csproj">
+      <Project>{30594326-34C3-4756-99D6-6EDD7BD79631}</Project>
+      <Name>AdminPanel.DataLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AdminPanel.DTO\AdminPanel.DTO.csproj">
+      <Project>{93ba82cb-6a3c-4ae1-903d-05297a70e3ec}</Project>
+      <Name>AdminPanel.DTO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AdminPanel.IRepository\AdminPanel.IRepository.csproj">
+      <Project>{e5f343b6-e837-4816-bb5f-7c5361ff13ff}</Project>
+      <Name>AdminPanel.IRepository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AdminPanel.IService\AdminPanel.IService.csproj">
+      <Project>{60317518-0fbe-4e92-9a0b-3f3bf4480fbb}</Project>
+      <Name>AdminPanel.IService</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AdminPanel.Repository\AdminPanel.Repository.csproj">
+      <Project>{e59bb213-a930-4889-a470-6e798ae78fbb}</Project>
+      <Name>AdminPanel.Repository</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

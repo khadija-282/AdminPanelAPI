@@ -1,0 +1,8 @@
+C:\Users\Wasim Sheilh\Desktop\Khadija\TFSAPI\AdminPanel.IService\bin\Debug\AdminPanel.IService.dll
+C:\Users\Wasim Sheilh\Desktop\Khadija\TFSAPI\AdminPanel.IService\bin\Debug\AdminPanel.IService.pdb
+C:\Users\Wasim Sheilh\Desktop\Khadija\TFSAPI\AdminPanel.IService\bin\Debug\AdminPanel.DTO.dll
+C:\Users\Wasim Sheilh\Desktop\Khadija\TFSAPI\AdminPanel.IService\bin\Debug\AdminPanel.DTO.pdb
+C:\Users\Wasim Sheilh\Desktop\Khadija\TFSAPI\AdminPanel.IService\obj\Debug\AdminPanel.IService.csprojAssemblyReference.cache
+C:\Users\Wasim Sheilh\Desktop\Khadija\TFSAPI\AdminPanel.IService\obj\Debug\AdminPanel.IService.csproj.CopyComplete
+C:\Users\Wasim Sheilh\Desktop\Khadija\TFSAPI\AdminPanel.IService\obj\Debug\AdminPanel.IService.dll
+C:\Users\Wasim Sheilh\Desktop\Khadija\TFSAPI\AdminPanel.IService\obj\Debug\AdminPanel.IService.pdb

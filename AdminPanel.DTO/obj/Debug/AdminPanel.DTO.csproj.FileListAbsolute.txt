@@ -1,0 +1,5 @@
+C:\Users\Wasim Sheilh\Desktop\Khadija\TFSAPI\AdminPanel.DTO\bin\Debug\AdminPanel.DTO.dll
+C:\Users\Wasim Sheilh\Desktop\Khadija\TFSAPI\AdminPanel.DTO\bin\Debug\AdminPanel.DTO.pdb
+C:\Users\Wasim Sheilh\Desktop\Khadija\TFSAPI\AdminPanel.DTO\obj\Debug\AdminPanel.DTO.dll
+C:\Users\Wasim Sheilh\Desktop\Khadija\TFSAPI\AdminPanel.DTO\obj\Debug\AdminPanel.DTO.pdb
+C:\Users\Wasim Sheilh\Desktop\Khadija\TFSAPI\AdminPanel.DTO\obj\Debug\AdminPanel.DTO.csprojAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Users\Wasim Sheilh\Desktop\Khadija\TFSAPI\AdminPanel.Models\bin\Debug\AdminPanel.Models.dll
+C:\Users\Wasim Sheilh\Desktop\Khadija\TFSAPI\AdminPanel.Models\bin\Debug\AdminPanel.Models.pdb
+C:\Users\Wasim Sheilh\Desktop\Khadija\TFSAPI\AdminPanel.Models\obj\Debug\AdminPanel.Models.dll
+C:\Users\Wasim Sheilh\Desktop\Khadija\TFSAPI\AdminPanel.Models\obj\Debug\AdminPanel.Models.pdb

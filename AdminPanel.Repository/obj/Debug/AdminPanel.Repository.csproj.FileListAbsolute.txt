@@ -1,0 +1,16 @@
+C:\Users\Wasim Sheilh\Desktop\Khadija\TFSAPI\AdminPanel.Repository\bin\Debug\AdminPanel.Repository.dll.config
+C:\Users\Wasim Sheilh\Desktop\Khadija\TFSAPI\AdminPanel.Repository\bin\Debug\AdminPanel.Repository.dll
+C:\Users\Wasim Sheilh\Desktop\Khadija\TFSAPI\AdminPanel.Repository\bin\Debug\AdminPanel.Repository.pdb
+C:\Users\Wasim Sheilh\Desktop\Khadija\TFSAPI\AdminPanel.Repository\bin\Debug\AdminPanel.DataLayer.dll
+C:\Users\Wasim Sheilh\Desktop\Khadija\TFSAPI\AdminPanel.Repository\bin\Debug\AdminPanel.IRepository.dll
+C:\Users\Wasim Sheilh\Desktop\Khadija\TFSAPI\AdminPanel.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Wasim Sheilh\Desktop\Khadija\TFSAPI\AdminPanel.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wasim Sheilh\Desktop\Khadija\TFSAPI\AdminPanel.Repository\bin\Debug\AdminPanel.DataLayer.pdb
+C:\Users\Wasim Sheilh\Desktop\Khadija\TFSAPI\AdminPanel.Repository\bin\Debug\AdminPanel.DataLayer.dll.config
+C:\Users\Wasim Sheilh\Desktop\Khadija\TFSAPI\AdminPanel.Repository\bin\Debug\AdminPanel.IRepository.pdb
+C:\Users\Wasim Sheilh\Desktop\Khadija\TFSAPI\AdminPanel.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Wasim Sheilh\Desktop\Khadija\TFSAPI\AdminPanel.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wasim Sheilh\Desktop\Khadija\TFSAPI\AdminPanel.Repository\obj\Debug\AdminPanel.Repository.csprojAssemblyReference.cache
+C:\Users\Wasim Sheilh\Desktop\Khadija\TFSAPI\AdminPanel.Repository\obj\Debug\AdminPanel.Repository.csproj.CopyComplete
+C:\Users\Wasim Sheilh\Desktop\Khadija\TFSAPI\AdminPanel.Repository\obj\Debug\AdminPanel.Repository.dll
+C:\Users\Wasim Sheilh\Desktop\Khadija\TFSAPI\AdminPanel.Repository\obj\Debug\AdminPanel.Repository.pdb
